@@ -8,17 +8,48 @@
 
 This Python script, created by [Vell Void](https://twitter.com/VellVoid), enhances image sharpness, contrast, and applies Gaussian blur using the OpenCV and PIL libraries. This can be used to preprocess images for machine learning models, for photo editing, or any other use where image quality needs to be enhanced programmatically.
 
-## Requirements
+## 🚀 Idea behind this script
 
-- Python 3.6+
+This script came from the need to improve the quality of images in a simple and automated way, especially useful for those dealing with a large number of images. Whether it's for a machine learning model or for a personal project, this script can be your tool to enhance the quality of any image.
+
+## 📝 Requirements
+
+- Python 3.6+. You can download it [here](https://www.python.org/downloads/)
 - OpenCV 4.x
 - PIL (Python Imaging Library) 7.x
 - Numpy 1.19.x
 - tqdm (latest)
 
-## Installation
+## 🛠 Installation and Usage
 
-You can download or clone this repository using:
+Usage
+
+Run the script:
+
+bash
+
+python image_enhancer.py
+
+
+You can modify the script to process your own directory by changing the parameters in the process_directory() function.
+
+
+🔄 Modification
+Feel free to modify the script as per your requirement. You can change parameters like sharpness, contrast, and blur as per your need in the process_directory() function. Additionally, you can add more features and enhancements as per your requirements.
+
+🤝 Contributing
+Contributions are welcomed! For major changes, please open an issue first to discuss what you would like to change.
+
+📄 License
+  MIT license.
+
+🌐 Connect with me
+Twitter: @VellVoid
+GitHub: VellVoid
+
+And remember, a picture is worth a thousand words, but an enhanced picture...
+
+1. Download or clone this repository using:
 
 ```bash
-git clone https://github.com/VellVoid/image-enhancement-script.git
+git clone https://github.com/VellVoid/image-enhancement-script.git 
