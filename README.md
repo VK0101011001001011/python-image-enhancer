@@ -40,8 +40,10 @@ Feel free to modify the script as per your requirement. You can change parameter
 🤝 Contributing
 Contributions are welcomed! For major changes, please open an issue first to discuss what you would like to change.
 
-📄 License
-  MIT license.
+## 📄 License
+
+This project is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses
+
 
 🌐 Connect with me
 Twitter: @VellVoid
